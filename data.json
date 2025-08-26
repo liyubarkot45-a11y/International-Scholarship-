@@ -1,0 +1,47 @@
+ [
+    {
+        "title": "Fulbright Foreign Student Program",
+        "country": "USA",
+        "level": "Graduate",
+        "field": "Any",
+        "deadline": "2025-10-01",
+        "description": "Enables graduate students, young professionals, and artists from abroad to study and conduct research in the United States.",
+        "link": "https://foreign.fulbrightonline.org/"
+    },
+    {
+        "title": "Chevening Scholarships",
+        "country": "United Kingdom",
+        "level": "Graduate",
+        "field": "Any",
+        "deadline": "2025-11-07",
+        "description": "Offers fully funded scholarships to pursue any master's course at any UK university.",
+        "link": "https://www.chevening.org/"
+    },
+    {
+        "title": "DAAD Scholarships",
+        "country": "Germany",
+        "level": "Graduate",
+        "field": "Engineering",
+        "deadline": "2025-09-15",
+        "description": "Supports international students for study and research in Germany.",
+        "link": "https://www.daad.de/en/"
+    },
+    {
+        "title": "Australia Awards Scholarships",
+        "country": "Australia",
+        "level": "Undergraduate",
+        "field": "Medicine",
+        "deadline": "2025-12-01",
+        "description": "Long-term awards administered by the Department of Foreign Affairs and Trade.",
+        "link": "https://www.australiaawards.gov.au/"
+    },
+    {
+        "title": "Erasmus Mundus Joint Master Degrees",
+        "country": "Europe",
+        "level": "Graduate",
+        "field": "Business",
+        "deadline": "2025-02-15",
+        "description": "High-level integrated international study programs offered by consortia of European universities.",
+        "link": "https://erasmus-plus.ec.europa.eu/"
+    }
+]
